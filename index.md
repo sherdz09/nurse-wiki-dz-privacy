@@ -82,6 +82,7 @@ Nous nous réservons le droit de modifier cette politique. Les modifications ser
 ### 10. Contact
 
 Pour toute question concernant cette politique de confidentialité :
+- **Email** : wikidzisp@gmail.com
 - **Application** : Nurse Wiki Dz
 - **Développeur** : Équipe Nurse Wiki Dz
 - **Pays** : Algérie 🇩🇿
@@ -166,6 +167,7 @@ Nurse Wiki Dz هو تطبيق تعليمي مخصص للطلاب والمهني�
 ### 10. الاتصال
 
 لأي استفسار حول سياسة الخصوصية:
+- **البريد الإلكتروني**: wikidzisp@gmail.com
 - **التطبيق**: Nurse Wiki Dz
 - **المطور**: فريق Nurse Wiki Dz
 - **البلد**: الجزائر 🇩🇿
@@ -250,6 +252,7 @@ We reserve the right to modify this policy. Changes will be notified through an 
 ### 10. Contact
 
 For any questions regarding this privacy policy:
+- **Email**: wikidzisp@gmail.com
 - **App**: Nurse Wiki Dz
 - **Developer**: Nurse Wiki Dz Team
 - **Country**: Algeria 🇩🇿
